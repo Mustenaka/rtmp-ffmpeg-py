@@ -1,0 +1,65 @@
+2018/07/17 10:12:15 [notice] 10352#8184: sockinit() attempting to access sockapi
+2018/07/17 10:12:15 [notice] 10352#8184: Access to sockapi succeded!
+2018/07/17 10:12:15 [notice] 10352#8184: using sockapi from "4;8;"
+2018/07/17 10:12:15 [notice] 2412#2420: sockinit() attempting to access sockapi
+2018/07/17 10:12:15 [notice] 2412#2420: Access to sockapi succeded!
+2018/07/17 10:12:15 [notice] 2412#2420: using sockapi from "4;8;"
+2018/07/17 10:20:12 [error] 10352#540: *13 CreateFile() "D:\nginx-1.7.11.3-Gryphon/html/live/home" failed (3: The system cannot find the path specified), client: 192.168.1.119, server: localhost, request: "GET /live/home HTTP/1.1", host: "192.168.1.119"
+2018/07/17 10:20:12 [error] 10352#540: *14 CreateFile() "D:\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.1.119, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.119"
+2020/06/09 18:18:47 [notice] 7344#7280: Fatal: wait for sockapi failed
+2020/06/09 18:18:49 [notice] 3256#9272: Fatal: wait for sockapi failed
+2020/06/09 18:42:43 [notice] 5928#11136: sockinit() attempting to access sockapi
+2020/06/09 18:42:43 [notice] 5928#11136: Access to sockapi succeded!
+2020/06/09 18:42:43 [notice] 5928#11136: using sockapi from "4;80;"
+2020/06/09 18:42:43 [notice] 9804#10412: sockinit() attempting to access sockapi
+2020/06/09 18:42:43 [notice] 9804#10412: Access to sockapi succeded!
+2020/06/09 18:42:43 [notice] 9804#10412: using sockapi from "4;8;"
+2020/06/09 18:43:42 [error] 5928#6336: *2 CreateFile() "D:\BaiduNetdiskDownload\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/06/10 19:01:58 [emerg] 12260#6404: CreateFile() "D:\BaiduNetdiskDownload\nginx-1.7.11.3-Gryphon/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2020/06/10 19:03:20 [notice] 9928#2228: sockinit() attempting to access sockapi
+2020/06/10 19:03:20 [notice] 9928#2228: Access to sockapi succeded!
+2020/06/10 19:03:20 [notice] 9928#2228: using sockapi from "4;92;"
+2020/06/10 19:03:20 [notice] 7616#7284: sockinit() attempting to access sockapi
+2020/06/10 19:03:20 [notice] 7616#7284: Access to sockapi succeded!
+2020/06/10 19:03:20 [notice] 7616#7284: using sockapi from "4;8;"
+2020/06/10 19:18:28 [notice] 4720#3204: sockinit() attempting to access sockapi
+2020/06/10 19:18:28 [notice] 4720#3204: Access to sockapi succeded!
+2020/06/10 19:18:28 [notice] 4720#3204: using sockapi from "4;128;"
+2020/06/10 19:18:28 [notice] 12840#2620: sockinit() attempting to access sockapi
+2020/06/10 19:18:28 [notice] 12840#2620: Access to sockapi succeded!
+2020/06/10 19:18:28 [notice] 12840#2620: using sockapi from "4;8;"
+2020/06/10 19:30:52 [notice] 6600#8540: sockinit() attempting to access sockapi
+2020/06/10 19:30:52 [notice] 6600#8540: Access to sockapi succeded!
+2020/06/10 19:30:52 [notice] 6600#8540: using sockapi from "4;72;"
+2020/06/10 19:30:52 [notice] 8328#2008: sockinit() attempting to access sockapi
+2020/06/10 19:30:52 [notice] 8328#2008: Access to sockapi succeded!
+2020/06/10 19:30:52 [notice] 8328#2008: using sockapi from "4;8;"
+2020/06/10 19:51:51 [notice] 9904#14028: Fatal: wait for sockapi failed
+2020/06/10 19:51:52 [notice] 7204#2924: Fatal: wait for sockapi failed
+2020/06/10 19:51:53 [notice] 11212#13728: Fatal: wait for sockapi failed
+2020/06/10 19:52:02 [notice] 5520#9460: Fatal: wait for sockapi failed
+2020/06/10 20:10:18 [notice] 5932#9116: Fatal: wait for sockapi failed
+2020/06/10 20:10:20 [notice] 3544#4264: Fatal: wait for sockapi failed
+2020/06/10 20:32:26 [notice] 8916#14332: sockinit() attempting to access sockapi
+2020/06/10 20:32:26 [notice] 8916#14332: Access to sockapi succeded!
+2020/06/10 20:32:26 [notice] 8916#14332: using sockapi from "4;144;"
+2020/06/10 20:32:26 [notice] 3712#9328: sockinit() attempting to access sockapi
+2020/06/10 20:32:26 [notice] 3712#9328: Access to sockapi succeded!
+2020/06/10 20:32:26 [notice] 3712#9328: using sockapi from "4;8;"
+2020/06/10 20:42:10 [error] 8916#10336: *10 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/06/10 20:52:41 [error] 8916#10336: *12 CreateFile() "D:\work\Python_code_mine\rtmp\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/06/10 21:01:26 [notice] 13192#7704: sockinit() attempting to access sockapi
+2020/06/10 21:01:26 [notice] 13192#7704: Access to sockapi succeded!
+2020/06/10 21:01:26 [notice] 13192#7704: using sockapi from "4;8;"
+2020/06/10 21:01:28 [notice] 1772#8780: sockinit() attempting to access sockapi
+2020/06/10 21:01:28 [notice] 1772#8780: Access to sockapi succeded!
+2020/06/10 21:01:28 [notice] 1772#8780: using sockapi from "4;8;"
+2020/06/14 12:01:49 [notice] 14076#11608: sockinit() attempting to access sockapi
+2020/06/14 12:01:49 [notice] 14076#11608: Access to sockapi succeded!
+2020/06/14 12:01:49 [notice] 14076#11608: using sockapi from "4;144;"
+2020/06/14 12:01:50 [notice] 7352#12396: sockinit() attempting to access sockapi
+2020/06/14 12:01:50 [notice] 7352#12396: Access to sockapi succeded!
+2020/06/14 12:01:50 [notice] 7352#12396: using sockapi from "4;8;"
+2020/06/14 12:02:59 [error] 14076#11704: *1 CreateFile() "D:\work\Python_code_mine\rtmp\nginx-1.7.11.3-Gryphon/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2020/06/14 12:06:50 [error] 14076#11704: *5 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2020/06/14 12:07:22 [error] 14076#11704: *6 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
