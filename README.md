@@ -4,7 +4,8 @@
 
 ### 运行方法
 
-将项目路径添加到环境变量，将项目中的nginxnginx-1.7.11.3-Gryphon也添加到环境变量，可参考[环境变量参考.png]
+将项目路径添加到环境变量，将项目中的nginxnginx-1.7.11.3-Gryphon也添加到环境变量，可参考[https://github.com/Mustenaka/rtmp-ffmpeg-py/blob/master/%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E5%8F%82%E8%80%83.png]
+
 第一步，首先安装vlc播放器
 第二部，以管理员身份运行下cmd，并且输入nginx.exe -c conf\nginx-win-rtmp.conf     （启动RTMP-nginx服务）
 第三步，运行gui.py代码，启动软件
